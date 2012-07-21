@@ -1,0 +1,9 @@
+kernel/drivers/regulator/fixed.ko
+kernel/drivers/regulator/virtual.ko
+kernel/drivers/regulator/max77663-regulator.ko
+kernel/drivers/regulator/tps6586x-regulator.ko
+kernel/drivers/regulator/tps6591x-regulator.ko
+kernel/drivers/regulator/tps80031-regulator.ko
+kernel/drivers/regulator/ricoh583-regulator.ko
+kernel/drivers/regulator/tps65910-regulator.ko
+kernel/drivers/regulator/tps62360-regulator.ko

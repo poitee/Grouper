@@ -1,0 +1,6 @@
+kernel/drivers/staging/iio/industrialio.ko
+kernel/drivers/staging/iio/kfifo_buf.ko
+kernel/drivers/staging/iio/imu/mpu/inv-mpu-iio.ko
+kernel/drivers/staging/iio/light/isl29028.ko
+kernel/drivers/staging/iio/light/ltr558als.ko
+kernel/drivers/staging/iio/magnetometer/inv-ami306.ko

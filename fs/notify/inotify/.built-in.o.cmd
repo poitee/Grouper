@@ -1,0 +1,1 @@
+cmd_fs/notify/inotify/built-in.o :=  /home/poitee//kernel/gcc-linaro-arm-linux-gnueabihf-2012.06-20120625_linux/bin/arm-linux-gnueabihf-ld -EL    -r -o fs/notify/inotify/built-in.o fs/notify/inotify/inotify_fsnotify.o fs/notify/inotify/inotify_user.o 

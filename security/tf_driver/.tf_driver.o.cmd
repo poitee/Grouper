@@ -1,0 +1,1 @@
+cmd_security/tf_driver/tf_driver.o := /home/poitee//kernel/gcc-linaro-arm-linux-gnueabihf-2012.06-20120625_linux/bin/arm-linux-gnueabihf-ld -EL    -r -o security/tf_driver/tf_driver.o security/tf_driver/tf_util.o security/tf_driver/tf_conn.o security/tf_driver/tf_device.o security/tf_driver/tf_comm.o security/tf_driver/tf_comm_tz.o 

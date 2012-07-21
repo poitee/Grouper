@@ -324,7 +324,13 @@ static int tegra_cpu_edp_notify(
 		edp_update_limit();
 
 		cpu_speed = tegra_getspeed(0);
+<<<<<<< HEAD
 		new_speed = edp_governor_speed(cpu_speed);
+=======
+
+		new_speed = edp_governor_speed(cpu_speed);
+
+>>>>>>> e6d03d1... tegra3  dvfs/clock tweaks
 		if (new_speed < cpu_speed) {
 			ret = tegra_cpu_set_speed_cap(NULL);
 			if (ret) {

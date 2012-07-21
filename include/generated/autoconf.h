@@ -565,6 +565,8 @@
 #define __enabled_CONFIG_SERIAL_8250_MODULE 0
 #define __enabled_CONFIG_RTC_DRV_ISL12022 0
 #define __enabled_CONFIG_RTC_DRV_ISL12022_MODULE 0
+#define __enabled_CONFIG_VOLTAGE_CONTROL 0
+#define __enabled_CONFIG_VOLTAGE_CONTROL_MODULE 0
 #define CONFIG_BCMDHD 1
 #define __enabled_CONFIG_BCMDHD 1
 #define __enabled_CONFIG_BCMDHD_MODULE 0
@@ -5308,6 +5310,8 @@
 #define __enabled_CONFIG_NTFS_FS_MODULE 0
 #define __enabled_CONFIG_BLK_CPQ_DA 0
 #define __enabled_CONFIG_BLK_CPQ_DA_MODULE 0
+#define __enabled_CONFIG_GPU_OVERCLOCK 0
+#define __enabled_CONFIG_GPU_OVERCLOCK_MODULE 0
 #define __enabled_CONFIG_IIO_PERIODIC_RTC_TRIGGER 0
 #define __enabled_CONFIG_IIO_PERIODIC_RTC_TRIGGER_MODULE 0
 #define __enabled_CONFIG_IP_SCTP 0

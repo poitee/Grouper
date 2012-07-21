@@ -1,0 +1,2 @@
+kernel/drivers/staging/iio/light/isl29028.ko
+kernel/drivers/staging/iio/light/ltr558als.ko

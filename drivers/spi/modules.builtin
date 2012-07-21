@@ -1,0 +1,2 @@
+kernel/drivers/spi/spi-tegra.ko
+kernel/drivers/spi/spi_slave_tegra.ko

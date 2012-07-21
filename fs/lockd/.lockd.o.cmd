@@ -1,0 +1,1 @@
+cmd_fs/lockd/lockd.o := /home/poitee//kernel/gcc-linaro-arm-linux-gnueabihf-2012.06-20120625_linux/bin/arm-linux-gnueabihf-ld -EL    -r -o fs/lockd/lockd.o fs/lockd/clntlock.o fs/lockd/clntproc.o fs/lockd/clntxdr.o fs/lockd/host.o fs/lockd/svc.o fs/lockd/svclock.o fs/lockd/svcshare.o fs/lockd/svcproc.o fs/lockd/svcsubs.o fs/lockd/mon.o fs/lockd/xdr.o fs/lockd/grace.o 

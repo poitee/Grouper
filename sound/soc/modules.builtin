@@ -1,0 +1,12 @@
+kernel/sound/soc/snd-soc-core.ko
+kernel/sound/soc/codecs/snd-soc-spdif.ko
+kernel/sound/soc/codecs/snd-soc-rt5640.ko
+kernel/sound/soc/codecs/snd-soc-rt5640-dsp.ko
+kernel/sound/soc/tegra/snd-soc-tegra-pcm.ko
+kernel/sound/soc/tegra/snd-soc-tegra-utils.ko
+kernel/sound/soc/tegra/snd-soc-tegra30-ahub.ko
+kernel/sound/soc/tegra/snd-soc-tegra30-dam.ko
+kernel/sound/soc/tegra/snd-soc-tegra30-i2s.ko
+kernel/sound/soc/tegra/snd-soc-tegra30-spdif.ko
+kernel/sound/soc/tegra/snd-soc-tegra-rt5640.ko
+kernel/sound/soc/tegra/headset.ko

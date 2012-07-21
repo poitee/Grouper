@@ -1,0 +1,1 @@
+cmd_kernel/events/built-in.o :=  /home/poitee//kernel/gcc-linaro-arm-linux-gnueabihf-2012.06-20120625_linux/bin/arm-linux-gnueabihf-ld -EL    -r -o kernel/events/built-in.o kernel/events/core.o kernel/events/ring_buffer.o kernel/events/hw_breakpoint.o 
