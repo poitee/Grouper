@@ -22,6 +22,9 @@ static struct usb_device_id whitelist_table [] = {
 { USB_DEVICE_INFO(USB_CLASS_HUB, 0, 0), },
 { USB_DEVICE_INFO(USB_CLASS_HUB, 0, 1), },
 
+/* Game controller*/
+{ USB_DEVICE_INFO(USB_CLASS_VENDOR_SPEC, 255, 255) },
+
 #ifdef	CONFIG_USB_PRINTER		/* ignoring nonstatic linkage! */
 /* FIXME actually, printers are NOT supposed to use device classes;
  * they're supposed to use interface classes...
