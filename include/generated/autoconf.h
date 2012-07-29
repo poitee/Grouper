@@ -1136,7 +1136,8 @@
 #define CONFIG_ARCH_HAS_CPUFREQ 1
 #define __enabled_CONFIG_ARCH_HAS_CPUFREQ 1
 #define __enabled_CONFIG_ARCH_HAS_CPUFREQ_MODULE 0
-#define __enabled_CONFIG_SND_USB_AUDIO 0
+#define CONFIG_SND_USB_AUDIO 1
+#define __enabled_CONFIG_SND_USB_AUDIO 1
 #define __enabled_CONFIG_SND_USB_AUDIO_MODULE 0
 #define __enabled_CONFIG_LCD_AMS369FG06 0
 #define __enabled_CONFIG_LCD_AMS369FG06_MODULE 0
@@ -3213,6 +3214,9 @@
 #define CONFIG_RING_BUFFER_ALLOW_SWAP 1
 #define __enabled_CONFIG_RING_BUFFER_ALLOW_SWAP 1
 #define __enabled_CONFIG_RING_BUFFER_ALLOW_SWAP_MODULE 0
+#define CONFIG_SND_RAWMIDI 1
+#define __enabled_CONFIG_SND_RAWMIDI 1
+#define __enabled_CONFIG_SND_RAWMIDI_MODULE 0
 #define CONFIG_PPPOPNS 1
 #define __enabled_CONFIG_PPPOPNS 1
 #define __enabled_CONFIG_PPPOPNS_MODULE 0
@@ -5310,7 +5314,8 @@
 #define __enabled_CONFIG_NTFS_FS_MODULE 0
 #define __enabled_CONFIG_BLK_CPQ_DA 0
 #define __enabled_CONFIG_BLK_CPQ_DA_MODULE 0
-#define __enabled_CONFIG_GPU_OVERCLOCK 0
+#define CONFIG_GPU_OVERCLOCK 1
+#define __enabled_CONFIG_GPU_OVERCLOCK 1
 #define __enabled_CONFIG_GPU_OVERCLOCK_MODULE 0
 #define __enabled_CONFIG_IIO_PERIODIC_RTC_TRIGGER 0
 #define __enabled_CONFIG_IIO_PERIODIC_RTC_TRIGGER_MODULE 0
